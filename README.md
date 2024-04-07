@@ -1,6 +1,6 @@
 # practicasAngular
 
-#Hola como estas
+## Hola como estas
 *Tengo hambre*
 
 
